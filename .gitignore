@@ -3,4 +3,4 @@ FER-2013/
 __pycache__/
 .ipynb_checkpoints/
 *.h5
-*.keras
+
